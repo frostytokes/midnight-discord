@@ -150,7 +150,7 @@
 /* filter login image */
 .artwork-L5TAwQ {
 	filter: saturate(0.2) hue-rotate(-20deg) brightness(0.15);
-}
+} 
 
 /* add margin */
 .content-1SgpWY /* outside edges */ {
@@ -287,7 +287,7 @@
 	display: none;
 }
 .wordmarkWindows-2dq6rw::after {
-	content: 'Midnight';
+	content: 'frostytokes';
 	display: block;
 	position: relative;
 	width: 200px;
