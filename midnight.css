@@ -300,22 +300,6 @@
 }
 
 /* window controls */
-.typeWindows-2-g3UY .winButton-3UMjdg > svg {
-	display: none;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg {
-	top: 0;
-	width: 12px;
-	height: 12px;
-	margin: 2px 12px 0px 0px;
-	border-radius: 12px;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg::after {
-	content: '';
-	height: 12px;
-	width: 12px;
-	border-radius: 12px;
-}
 .typeWindows-2-g3UY .winButtonClose-3Q8ZH5::after {
 	background-color: hsl(350, 50%, 50%) !important;
 }
